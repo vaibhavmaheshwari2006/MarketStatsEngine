@@ -1,3 +1,7 @@
+// MarketStatsEngine
+// Author: Vaibhav Maheshwari (vaibhavmaheshwari2006)
+// Date: October 2026
+
 #pragma once
 
 #include <string>

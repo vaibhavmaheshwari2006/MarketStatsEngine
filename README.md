@@ -57,3 +57,9 @@ GOOG      142.43      195.07      109.77      900         4
 MSFT      134.83      178.52      104.64      2200        3
 TSLA      168.92      180.84      121.23      500         2
 ```
+
+## Author
+* **Vaibhav Maheshwari**
+  * GitHub: [@vaibhavmaheshwari2006](https://github.com/vaibhavmaheshwari2006)
+  * Project Date: October 2026
+

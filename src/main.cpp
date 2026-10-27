@@ -1,3 +1,7 @@
+// MarketStatsEngine
+// Author: Vaibhav Maheshwari (vaibhavmaheshwari2006)
+// Date: October 2026
+
 #include "MarketStatsEngine.h"
 #include <iostream>
 #include <fstream>
